@@ -11,7 +11,7 @@ about:
       href: https://github.com/Sigmha
     - icon: file-pdf
       text: One Page Resume
-      href: resume/CV_Arthur_CHANLOCK.pdf
+      href: https://sigmha.github.io/portfolio/resume/CV_Arthur_CHANLOCK.pdf
 ---
 
 ## Bio
