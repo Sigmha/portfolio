@@ -3,6 +3,8 @@ project:
   output-dir: docs
 
 website:
+  title: "Arthur Chan-Lock"
+  site-url: "https://sigmha.github.io/portfolio"
   navbar:
     left:
       - href: index.qmd
@@ -11,9 +13,6 @@ website:
         text: Projects
       - href: resume.qmd
         text: Resume
-    right:
-      - text: "One Page Resume"
-        href: CV_Arthur_CHANLOCK.pdf
 
 format:
   html:
