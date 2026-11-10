@@ -1,0 +1,9 @@
+---
+title: "Projects"
+listing:
+    contents: projects
+    type: grid
+    sort: "date desc"
+---
+
+Here are some projects I made, mostly to learn new skills and because I found them fun and intriguing.

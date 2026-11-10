@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+
+format:
+  html:
+    theme:
+      dark: cyborg
+      light: cosmo
+    css: styles.css
+    toc: true

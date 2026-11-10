@@ -1,0 +1,51 @@
+---
+title: "Arthur Chan-Lock"
+about:
+  template: solana
+  links:
+    - icon: envelope
+      text: arthur.chanlock@gmail.com
+      href: mailto:arthur.chanlock@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com
+    - icon: file-pdf
+      text: One Page Resume
+      href: CV_Arthur_CHANLOCK.pdf
+---
+
+## Bio
+
+I am a scientific computing engineer enthusiast about simulation and artificial intelligence. 
+My background bridges classical numerical methods with modern machine learning architectures for high-performance computing. 
+
+I am currently pursuing a PhD at INRIA Sophia-Antipolis (France) working on *Cardioembolic Stroke Risk Stratification using AI Accelerated Patient-Specific Blood Flow Simulation* supervised by Maxime Sermesant.
+My drive to pursue a PhD is inspired by my brother Antoine, some of my teachers that were very passionate, and great researchers such as Ron Fedkiw.
+Therefore, I am endlessly fascinated about numerical modeling in research and eager to keep pushing boundaries.
+
+## Research Interests
+Here are my main interests in science that drive me.
+
+- **AI:** Physics-Informed Neural Networks, surrogate models, reinforcement learning.
+- **Computational Fluid Dynamics:** Lattice Boltzmann Method, Smoothed Particle Hydrodynamics, Navier-Stokes solvers (PISO).
+- **Numerical Methods:** PDEs, Finite Differences/Volumes/Elements, Discontinuous Galerkin.
+- **High-Performance Computing:** GPU parallelization, MPI, rendering (Shaders).
+
+## Education
+- **SeaTech Engineering School (2023 - 2026)** - M.Sc. in Modeling and Scientific Computing.
+- **Bishop's University (2023)** - Exchange semester in Mathematics.
+- **Université de Toulon (2021 - 2023)** - Bachelor in Mathematics.
+
+## Research & Engineering Experience
+- **Naval Group (2026)** - AI Software Engineering Intern. NLP, LLMs, software development, management.
+- **University of Genoa (2025)** - Research Intern. SPH wave channel modeling (DualSPHysics) on GPU cluster, multi-sensor data processing.
+
+More in my [long resume](resume.qmd).
+
+## Some of my most recent [projects](projects.qmd)
+- Real-time LBM wind tunnel
+- Taylor-Green vortex simulation using PINNs 
+
+## Miscellaneous
+- I have been the vice-president of the Athlétique Club Gardéen since 2024, a weightlifting club near Toulon in France. I also [competed in powerlifting](https://www.openpowerlifting.org/u/arthurchanlock) and participated in the 2024 French benchpress championship.
+- I also like to play gypsy guitar.

@@ -1,0 +1,87 @@
+---
+title: "Resume"
+description: "Detailed academic and professional background."
+toc: true
+toc-title: "Contents"
+toc-depth: 2
+---
+
+*You can download the condensed, one-page version of my resume [here](CV_Arthur_CHANLOCK.pdf).*
+
+## Research & Industrial Experience
+
+### AI Software Engineering Intern
+**Naval Group, Ollioules, France** | *March 2026 - July 2026*  
+*Supervisor: Hugo Lopez*
+
+*   **Context:** Major French defense contractor for naval systems. The environment imposes strict data security and operates entirely on a closed network.
+*   **Mission:**
+    *   Developed a Retrieval-Augmented Generation (RAG) chatbot in a team of three to securely query evolving internal documentation.
+    *   Built the architecture using Python, LangChain, and Qwen LLMs, choosing RAG over fine-tuning to maintain strict access control over sensitive data.
+    *   Overcame severe computational memory limits on the closed network through big code and pipeline optimization.
+    *   Designed a comprehensive benchmark using public (Vidore) and internal datasets to evaluate the system's accuracy.
+*   **Outcomes:** Leveraged my scientific computing background to drive rigorous system evaluation and optimization. Gained practical experience in industrial software development, collaborative engineering, and deploying AI under strict defense constraints.
+
+### Research Intern in Numerical Modeling
+**University of Genoa, Italy** | *April 2025 - August 2025*  
+*Supervisors: Giovanni Besio and Gaël Anastas*
+
+*   **Context:** The Department of Civil, Chemical and Environmental Engineering (DICCA) required a digital twin for their newly acquired experimental wave channel.
+*   **Methodology:**
+    *   Collaborated with a PhD researcher (Gael Anastas) to build a 1:1 scale simulation using Smoothed Particle Hydrodynamics (SPH).
+    *   Iteratively optimized the initial prototype to overcome heavy computational costs and numerical diffusion, validating the model against physical measurements.
+    *   Developed a Python analysis tool using the Iversen (2025) method to process multi-sensor data (physical probes) and compare wave parameters.
+*   **HPC / Outcomes:** Leveraged DualSPHysics to execute highly parallelized calculations on a remote H100 GPU cluster. This hands-on experience solidified my autonomy in academic research and demonstrated the immense speedup of GPU parallelization.
+
+## Education
+
+### M.Sc. in Modeling and Scientific Computing
+**SeaTech Engineering School, Toulon, France** | *2023 - 2026*  
+*Supervisor: Cédric Galusinski*
+
+#### Core topics
+*   **Numerical Methods & PDE Solvers:** Finite Differences, Finite Volumes, and Finite Elements; Discontinuous Galerkin, MAC Grids, Splitting methods.
+*   **Simulation & CFD Software:** OpenFOAM, Ansys Fluent, Abaqus.
+*   **High-Performance Computing:** MPI parallel computing, Linux/Bash.
+*   **Programming Languages:** C/C++, Python, MatLab, Fortran.
+*   **Physics:** Continuum Mechanics (Fluid & Solid).
+*   **AI & Data Science:** Mathematical optimization, Neural Networks, Machine Learning, K-means, Random Forest, Regression.
+
+#### Recent Academic Projects
+
+*   **AI-Accelerated Walk on Spheres:** Developed a numerical method coupling the stochastic Walk on Spheres algorithm with surrogate models to accelerate convergence for a final-term project.
+*   **Reinforcement Learning Autonomous Driving:** Built a 2D racing simulation, training vehicle agents to navigate the track using PyTorch and the NEAT algorithm.
+*   **Automotive Aerodynamics:** Conducted 3D aerodynamic studies of car models using Ansys Fluent.
+
+### Exchange Semester in Mathematics
+**Bishop's University, Sherbrooke, Canada** | *Jan. 2023 - May 2023*
+
+*   Completed the final semester of my Mathematics degree at an English-speaking university in Canada. This international immersion significantly enhanced my conversational and scientific English.
+
+### Bachelor in Mathematics
+**Université de Toulon, France** | *2021 - 2023*
+
+*   **Core subjects:** Algebra, calculus, scientific computing, and physics.
+
+
+## Technical Skills
+
+*   **Programming Languages:** C/C++, Python, Fortran, Bash, MatLab, GDScript, OpenGL, SQL.
+*   **Machine Learning & AI:** PyTorch, Scikit-learn, Pandas, NLP, Reinforcement Learning, Neural Networks, PINNs, Surrogate Models.
+*   **Scientific Computing & CFD:** NumPy, LBM, SPH, PISO, OpenFOAM, Fluent, Abaqus.
+*   **Tools & Visualization:** ParaView, OpenCV, Matplotlib, MPI, Git, Linux, Docker.
+
+
+## Languages
+
+*   **French:** Native
+*   **English:** Fluent (TOEIC 970/990 - C1 level)
+
+
+## Extracurricular Activities
+
+### Powerlifting & Club Management
+**Athlétique Club Gardéen** | *2022 - Present*
+
+*   **Vice-President (since 2024):** Managing the club's daily operations, including equipment procurement and organizing competitions.
+*   **Competitor:** Competed in both powerlifting and bench press, placing 8th at the 2024 French Bench Press Championship. Training four times a week is a core part of my routine, constantly pushing me out of my comfort zone and building strong discipline.
