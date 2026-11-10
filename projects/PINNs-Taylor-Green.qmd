@@ -52,8 +52,8 @@ Everything runs on my RTX 3060 with PyTorch.
 *   **Relative $L^2$ error over time** for $u$, $v$ and $p$ against the analytical solution.
 *   **Animated velocity magnitude** predicted by the network.
 
-::: {layout-ncol=2}
-![Evolution of each loss term. The dashed line marks the switch from Adam to L-BFGS.](../images/PINNs-Tailor-Green/PINNs-Taylor-Green_loss.png)
+::: {.text-center}
+![Evolution of each loss term. The dashed line marks the switch from Adam to L-BFGS.](../images/PINNs-Tailor-Green/PINNs-Taylor-Green_loss.png){width="70%"}
 
 ![Relative $L^2$ error of $u$, $v$ and $p$ over time.](../images/PINNs-Tailor-Green/PINNs-Taylor-Green_error.png)
 :::

@@ -7,7 +7,7 @@ categories: [CFD, LBM, GDScript, GLSL]
 ---
 
 ::: {.text-center}
-![Smoke streamlines of a NACA 0012 wing profil at $20°$ and $Re=500$](..\images\LBM-wind-tunnel_project\LBM-wind-tunnel_smoke.gif){width="70%"}
+![Smoke streamlines of a NACA 0012 wing profil at $20°$ and $Re=500$](..\images\LBM-wind-tunnel_project\LBM-wind-tunnel_smoke_intro.gif){width="70%"}
 :::
 
 ## Introduction
