@@ -11,6 +11,9 @@ website:
         text: Projects
       - href: resume.qmd
         text: Resume
+    right:
+      - text: "One Page Resume"
+        href: CV_Arthur_CHANLOCK.pdf
 
 format:
   html:
