@@ -6,7 +6,7 @@ toc-title: "Contents"
 toc-depth: 2
 ---
 
-*You can download the condensed, one-page version of my resume [here](CV_Arthur_CHANLOCK.pdf).*
+*You can download the condensed, one-page version of my resume [here](resume/CV_Arthur_CHANLOCK.pdf).*
 
 ## Research & Industrial Experience
 
